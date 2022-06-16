@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am [Taoidle](https://www.taoidle.com)
 
 <!--
 **Taoidle/Taoidle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taoidle&show_icons=true&hide_border=true&&exclude_repo=taoidle.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoidle&layout=compact&hide_border=true&&exclude_repo=taoidle.github.io" />
+</a>
