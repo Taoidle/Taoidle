@@ -1,11 +1,3 @@
-<!--
- * @Author: taoidle me@mail.taoidle.com
- * @Date: 2022-07-30 18:27:55
- * @LastEditors: taoidle me@mail.taoidle.com
- * @LastEditTime: 2022-07-30 19:26:08
- * @FilePath: \Taoidle\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ### Hi there 👋, I am [Taoidle](https://www.taoidle.com)
 
 <!--
@@ -25,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoidle&show_icons=true&hide_border=true&&exclude_repo=taoidle.github.io)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats-one-cyan.vercel.app/api?username=taoidle&show_icons=true&hide_border=true&&exclude_repo=taoidle.github.io)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoidle&layout=compact&hide_border=true&&exclude_repo=taoidle.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-cyan.vercel.app/api/top-langs/?username=taoidle&layout=compact&hide_border=true&&exclude_repo=taoidle.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![Cplusplus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
